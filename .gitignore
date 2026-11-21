@@ -17,3 +17,7 @@ wheels/
 outputs/
 sample_filings/
 *.xlsx
+
+
+# Random
+random/
