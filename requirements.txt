@@ -1,0 +1,10 @@
+google-adk
+langchain-community
+langchain-tavily
+tavily-python
+litellm
+pydantic
+pdfplumber
+yfinance
+openpyxl
+streamlit
